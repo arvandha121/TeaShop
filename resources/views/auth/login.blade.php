@@ -13,7 +13,7 @@
                     <div class="login-wrap p-4 p-md-5">
                         <div class="d-flex">
                             <div class="w-100">
-                                <h3 class="mb-4">Log In</h3>
+                                <h3 class="mb-4">Sign In</h3>
                             </div>
                         </div>
                         <div class="">
@@ -53,7 +53,7 @@
                         </form>
                         <p class="text-center">Not a member? <a href="{{ route('register') }}">Sign Up</a></p>
                     </div>
-                    <div class="img" style="background-image: url(images/pizza.jpeg);">
+                    <div class="img" style="background-image: url(images/tea.jpg);">
                     </div>
                 </div>
             </div>

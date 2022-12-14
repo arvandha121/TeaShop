@@ -60,7 +60,7 @@
                         </form>
                         <p class="text-center">Have account? <a href="{{route('login')}}">Sign In</a></p>
                     </div>
-                    <div class="img" style="background-image: url({{asset('images/bg-1.jpg')}});"></div>
+                    <div class="img" style="background-image: url({{asset('images/tea1.png')}});"></div>
                 </div>
             </div>
         </div>

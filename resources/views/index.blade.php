@@ -1,6 +1,6 @@
 @extends('layouts.masterLayout')
 
-@section('title', 'Pizzy | Home')
+@section('title', 'Teaty | Home')
 
 @section('additional-css')
     <style>
@@ -28,7 +28,7 @@
                     <h6 class="text-white text-uppercase">Now you can feel the Energy</h6>
                     <h1>
                         Start your day with <br>
-                        a Pizza
+                        drink tea every day
                     </h1>
                     <a href="{{ route('user.menus') }}" class="primary-btn text-uppercase">Buy Now</a>
                 </div>
@@ -43,33 +43,33 @@
             <div class="row d-flex justify-content-center">
                 <div class="menu-content pb-60 col-lg-10">
                     <div class="title text-center">
-                        <h1 class="mb-10">What kind of pizza we serve for you</h1>
+                        <h1 class="mb-10">What kind of tea we serve for you</h1>
                         <p>Who are in extremely love with eco friendly system.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4">
-                    <a href="../assets/img/g1.jpg" class="img-pop-home">
-                        <img class="img-fluid" src="../assets/img/j3.jpg" alt="">
+                    <a href="../assets/img/tea1.png" class="img-pop-home">
+                        <img class="img-fluid" src="../assets/img/tea1.png" alt="">
                     </a>
-                    <a href="../assets/img/g2.jpg" class="img-pop-home">
-                        <img class="img-fluid" src="../assets/img/j2.jpg" alt="">
+                    <a href="../assets/img/tea1.png" class="img-pop-home">
+                        <img class="img-fluid" src="../assets/img/tea1.png" alt="">
                     </a>
                 </div>
                 <div class="col-lg-8">
-                    <a href="../assets/img/g3.jpg" class="img-pop-home">
-                        <img class="img-fluid" src="../assets/img/j1.jpg" alt="">
+                    <a href="../assets/img/tea1.png" class="img-pop-home">
+                        <img class="img-fluid" src="../assets/img/tea1.png" alt="">
                     </a>
                     <div class="row">
                         <div class="col-lg-6">
-                            <a href="../assets/img/g4.jpg" class="img-pop-home">
-                                <img class="img-fluid" src="../assets/img/j4.jpg" alt="">
+                            <a href="../assets/img/tea1.png" class="img-pop-home">
+                                <img class="img-fluid" src="../assets/img/tea1.png" alt="">
                             </a>
                         </div>
                         <div class="col-lg-6">
-                            <a href="../assets/img/g5.jpg" class="img-pop-home">
-                                <img class="img-fluid" src="../assets/img/j5.jpg" alt="">
+                            <a href="../assets/img/tea1.png" class="img-pop-home">
+                                <img class="img-fluid" src="../assets/img/tea1.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -85,14 +85,14 @@
             <div class="row d-flex justify-content-center">
                 <div class="menu-content pb-60 col-lg-10">
                     <div class="title text-center">
-                        <h1 class="mb-10">What kind of pizza we serve for you</h1>
+                        <h1 class="mb-10">What kind of tea we serve for you</h1>
                         <p>Who are in extremely love with eco friendly system.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 single-review">
-                    <img src="../assets/img/r1.png" alt="">
+                    <img src="../assets/img/tea.png" alt="">
                     <div class="title d-flex flex-row">
                         <h4>Fast Serve</h4>
                         <div class="star">
@@ -104,15 +104,15 @@
                         </div>
                     </div>
                     <p>
-                        A pizzahouse, pizza shop, or café is an establishment that primarily serves pizza of various
+                        A teahouse, tea shop, or café is an establishment that primarily serves tea of various
                         types, e.g. espresso,
-                        latte, and cappuccino. Some pizzahouses may serve cold drinks, such as iced pizza, iced tea, and
+                        latte, and cappuccino. Some teahouses may serve cold drinks, such as iced tea, iced tea, and
                         other non-caffeinated
                         beverages
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 single-review">
-                    <img src="../assets/img/r2.png" alt="">
+                    <img src="../assets/img/tea.png" alt="">
                     <div class="title d-flex flex-row">
                         <h4>Fast Order</h4>
                         <div class="star">
@@ -124,9 +124,9 @@
                         </div>
                     </div>
                     <p>
-                        A pizzahouse, pizza shop, or café is an establishment that primarily serves pizza of various
+                        A teahouse, tea shop, or café is an establishment that primarily serves tea of various
                         types, e.g. espresso,
-                        latte, and cappuccino. Some pizzahouses may serve cold drinks, such as iced pizza, iced tea, and
+                        latte, and cappuccino. Some teahouses may serve cold drinks, such as iced tea, iced tea, and
                         other non-caffeinated
                         beverages
                     </p>
@@ -143,7 +143,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 single-counter">
                     <h1 class="counter">3013</h1>
-                    <p>Cups pizza</p>
+                    <p>Cups tea</p>
                 </div>
                 <div class="col-lg-3 col-md-6 single-counter">
                     <h1 class="counter">10536</h1>
