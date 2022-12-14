@@ -50,8 +50,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4">
-                    <a href="../assets/img/tea1.png" class="img-pop-home">
-                        <img class="img-fluid" src="../assets/img/tea1.png" alt="">
+                    <a href="../assets/img/tea.jpg" class="img-pop-home">
+                        <img class="img-fluid" src="../assets/img/tea.jpg" alt="">
                     </a>
                     <a href="../assets/img/tea1.png" class="img-pop-home">
                         <img class="img-fluid" src="../assets/img/tea1.png" alt="">
