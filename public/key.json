@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stable-apogee-364601",
+  "private_key_id": "838e856ca24368fcf819df825095c66da181cc2e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+kaBSq2k4P0+x\nNGcWgb13FrMDog0zxDkaQVuWynWuaefG+sXpeCvCExEALC57vcEvKSND70cSWCb2\nvKxH0zAYb44pJSCts1jlH0pB+p2apfxLctRPRgDaONagpExL8sMS6lqbRMyZjxmB\nOpTzQVnCCE2Rk0PF0hUN3jiSu3P59KHYz2SElZtT0iqIeVS1v1RdxofKqWuOPvGp\nNm+e5Al+nG1p+au7cYuTpqtiBlzaCSSSv9cSMnzr+U1jr17Fi7LeElA1CE455qpA\nkTfAf56DPzSXcCjoxcajKo92QhsCoOw2vxUWDDgOvimhRHTaew6BF+WuY1+H0Gx0\nRAXf3WfXAgMBAAECggEAJC3NfCRis3UBkijasWEsMSG0Fqp7SyqjlKJ32ubQ9K3S\nfOo7DJnt5Mht39SDdqaNuIBc25bfrVHjA9DJ/FDRvrHfEVylGZUE+Wq5VFFZ/nQo\ns8I3IF2v574GsTS/72NFOaAYV4X2Oej69JfEk3ICsl2VLGAC69l4ecuIfgLsf7Vn\nkmpRBE9NJng+dYhVOpkV1Q3TlsT9W2jKLaoWxOpgt/dsrt6Q4oSeOBtkB68jFg5r\nSKnkcv3OPlDPvEcWmqtmXeFHlniSlmjiFEHJfpgft8tsnoVpmjbWMB2r6gsiVuws\ndWC+VHD8SrpXiyluArcNhEnwpVkd4oGTWBPiRDU5wQKBgQDyWXQcyCZf17FDSclY\n23XnRECKTwFZP9XV6s/15uN4nAvVDTlSj0SX8D3vIP5eELCD9psTELIF19BvpPo8\n7cAElVknky471gRpSY20r0zLTWzxmRs/sy4Owc/mM4+sCcTvZr9QyCcTmQVmhKab\nNtQ8SVAWD24xMOSEP3+SpoHPEQKBgQDJTYZrB9uNgN+T4K6xRJ1IbmzAXJNetyL+\n4zmSJEmy3l1Ox0P0P4bZ8flrVEQPTfxha8ReBAG8amPqr2HoJ4FCMgPmV9vxaHZj\nGMKfP2s8ju5G52jy7bvsPu8snsVv9WRf3z3JjBaXPFgiWGOOaZDXf66wkQ25BqWq\nXQdlRaGYZwKBgQC9GYGZZ69Rv5qoV23NcMip4L6/bPAvdLjkxujoBfXeSVyOLFhb\nDEFIkQOykDsKqNkizwynrrJKDuCsDL3ZRuY6bVJ4p8Y+mDsu8F6q6tHwHITyazYw\n2R4KE76l7/ueEK1i4/hKDzM2foMRQFZD7F9kfwwHepjPt0fHzUg85MGLEQKBgQCT\nQuJtk/76QmfMn1ZMmfxRi26FPnQUmva/7ewky+UaM++gfMdqe7qj349uA+QSKiPS\nBOtPN7Epa88SVSDTm2rEyR/vNyDQNnI8xlVB+Dvzvj/zoMA2ztFl3xhK1Q9seuDl\n/cMOmSvBkUSMQ4r5GKL78w0RX9vhGkrBGXMak9jGSwKBgQDuNlMUzakYoz5e/LcF\n8Yo+7VW/2yCApWYZk+igtAOcP5zE6eTC7R2M5Z2+ils4lTnoZyVY+42MDX8DFgf+\nbI7TqbcQ1WQtmv6E0GSH7EJCUJ4kttSUOZGY+SaPRqMLLlw0j+fkMYhwjy/ZGGpT\nEps8frT9FYqXZBekIdQuzKZF/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "laravel-cafe-app@stable-apogee-364601.iam.gserviceaccount.com",
+  "client_id": "114725528041416434631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/laravel-cafe-app%40stable-apogee-364601.iam.gserviceaccount.com"
+}
